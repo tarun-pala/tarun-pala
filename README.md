@@ -156,6 +156,44 @@ Explore Power BI, Tableau, SQL, ETL pipelines, predictive models, and analytics 
 
 ---
 
+## 📊 GitHub Overview
+
+<table>
+  <tr>
+    <!-- Left Side -->
+    <td width="50%" valign="top">
+
+      <h3>❄️ Most Used Languages On GitHub</h3>
+
+      <div align="center">
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight&hide_border=true" />
+
+      </div>
+
+    </td>
+
+    <!-- Right Side -->
+    <td width="50%" valign="top">
+
+      <h3>⭐ My GitHub Stats</h3>
+
+      <div align="center">
+
+      <img src="https://github-readme-stats.vercel.app/api?username=tarun-pala&show_icons=true&theme=tokyonight&hide_border=true" />
+
+      <br/>
+
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-pala&theme=tokyonight&hide_border=true" />
+
+      </div>
+
+    </td>
+  </tr>
+</table>
+
+----
+
 ## 🤝 Let's Connect
 
 📧 **Email:** tarunkumarpala@gmail.com  
