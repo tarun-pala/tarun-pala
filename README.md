@@ -4,8 +4,7 @@
   <img src="https://raw.githubusercontent.com/tarun-pala/tarun-pala/main/banner.jpg" alt="Tarun Kumar Pala Banner">
 </p>
 
-## I'm **Tarun Kumar Pala
-
+## I'm Tarun Kumar Pala
 ### Senior Business Intelligence Analyst  
 Data Analytics • Business Intelligence • Project & Program Management
 
