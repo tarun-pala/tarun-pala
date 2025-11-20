@@ -23,7 +23,7 @@ A business intelligence / project management professional with **9 years of expe
 
 ---
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 - **Certifications:**  
   Tableau, Power BI
@@ -48,7 +48,7 @@ A business intelligence / project management professional with **9 years of expe
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### **T-Mobile – Bellevue, WA (SoftHQ Inc.)**  
 **Senior Business Intelligence Analyst – (Sep 2015 – Present)**  
@@ -120,7 +120,7 @@ Introduced an interactive business model to create transparency into our own por
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### **Harrisburg University – Harrisburg, PA (2016 – 2018)**
 Master of Science – Information Technology & Project/Program Management
@@ -148,7 +148,7 @@ GPA: **3.8 / 4.0**
 
 ---
 
-## 📁 GitHub Projects & Code
+##  GitHub Projects & Code
 
 Explore Power BI, Tableau, SQL, ETL pipelines, predictive models, and analytics work:
 
@@ -156,46 +156,30 @@ Explore Power BI, Tableau, SQL, ETL pipelines, predictive models, and analytics 
 
 ---
 
-## 📊 GitHub Overview
+##  GitHub Overview
 
-<div style="display: flex; gap: 20px; width: 100%;">
+<table>
+  <tr>
+    <td>
+      <h3>❄ Most Used Languages On GitHub</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <h3>⭐ My GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=tarun-pala&show_icons=true&count_private=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-  <!-- LEFT SIDE -->
-  <div style="flex: 1;">
-
-  <h3>❄️ Most Used Languages On GitHub</h3>
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight&hide_border=true" 
-       style="width: 100%;"/>
-
-  </div>
-
-  <!-- RIGHT SIDE -->
-  <div style="flex: 1;">
-
-  <h3>⭐ My GitHub Stats</h3>
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=tarun-pala&show_icons=true&theme=tokyonight&hide_border=true" 
-       style="width: 100%;"/>
-
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-pala&theme=tokyonight&hide_border=true" 
-       style="width: 100%; margin-top: 10px;"/>
-
-  </div>
-
-</div>
 
 ----
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 📧 **Email:** tarunkumarpala@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/tarunkumarpala  
 💻 **GitHub:** https://github.com/tarun-pala
 
 ---
-
-✨ _Thank you for visiting my profile!_
