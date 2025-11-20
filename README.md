@@ -15,11 +15,11 @@ Data Analytics • Business Intelligence • Project & Program Management
 
 ## Professional Summary
 
-A business intelligence / project management professional with 9 years of experience who is highly experienced with data analysis, reporting, software design, development, integration, testing and implementation of business intelligence, ETL and database platforms. Clasps the opportunity to take on a number of roles with a comprehensive understanding of all facets of project management and program management
+A business intelligence / project management professional with **9 years of experience** who is highly experienced with data analysis, reporting, software design, development, integration, testing and implementation of business intelligence, ETL and database platforms. Clasps the opportunity to take on a number of roles with a comprehensive understanding of all facets of project management and program management
 
-BI Analyst– Specializes in developing data analytic capabilities, strategic and tactical dashboards and statistical and predictive modeling. All-inclusive understanding and analysis of data processes. Conducts productive and efficient JAD sessions with subject matter experts, stakeholders, analysts, developers, architects and solution owners. Adept at data visualization and metrics analysis using Tableau/Power BI and data analysis using R/Python/Statistics
+**BI Analyst**– Specializes in developing data analytic capabilities, strategic and tactical dashboards and statistical and predictive modeling. All-inclusive understanding and analysis of data processes. Conducts productive and efficient JAD sessions with subject matter experts, stakeholders, analysts, developers, architects and solution owners. Adept at data visualization and metrics analysis using Tableau/Power BI and data analysis using R/Python/Statistics
 
-Project Management & Program Management– Professional graduate level education in all facets or project management and program management principles. Conducts project-based analysis, problem solving, planning, scheduling, cost management, collaboration, attention to detail and risk assessment. Analyses enterprise risk assessment, risk governance and compliance requirements within business intelligence teams
+**Project Management & Program Management**– Professional graduate level education in all facets or project management and program management principles. Conducts project-based analysis, problem solving, planning, scheduling, cost management, collaboration, attention to detail and risk assessment. Analyses enterprise risk assessment, risk governance and compliance requirements within business intelligence teams
 
 ---
 
