@@ -158,39 +158,35 @@ Explore Power BI, Tableau, SQL, ETL pipelines, predictive models, and analytics 
 
 ## 📊 GitHub Overview
 
-<table>
-  <tr>
-    <!-- Left Side -->
-    <td width="50%" valign="top">
+<div style="display: flex; gap: 20px; width: 100%;">
 
-      <h3>❄️ Most Used Languages On GitHub</h3>
+  <!-- LEFT SIDE -->
+  <div style="flex: 1;">
 
-      <div align="center">
+  <h3>❄️ Most Used Languages On GitHub</h3>
 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight&hide_border=true" 
+       style="width: 100%;"/>
 
-      </div>
+  </div>
 
-    </td>
+  <!-- RIGHT SIDE -->
+  <div style="flex: 1;">
 
-    <!-- Right Side -->
-    <td width="50%" valign="top">
+  <h3>⭐ My GitHub Stats</h3>
 
-      <h3>⭐ My GitHub Stats</h3>
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=tarun-pala&show_icons=true&theme=tokyonight&hide_border=true" 
+       style="width: 100%;"/>
 
-      <div align="center">
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-pala&theme=tokyonight&hide_border=true" 
+       style="width: 100%; margin-top: 10px;"/>
 
-      <img src="https://github-readme-stats.vercel.app/api?username=tarun-pala&show_icons=true&theme=tokyonight&hide_border=true" />
+  </div>
 
-      <br/>
-
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-pala&theme=tokyonight&hide_border=true" />
-
-      </div>
-
-    </td>
-  </tr>
-</table>
+</div>
 
 ----
 
