@@ -54,53 +54,13 @@ A business intelligence / project management professional with **9 years of expe
 **Senior Business Intelligence Analyst – (Sep 2015 – Present)**  
 **Business / Functional Analyst – (Sep 2014 – Sep 2015)**
 
-Performed enterprise BI & data analytics using Tableau, Power BI, SQL, Hadoop, Teradata, Python, R, and Spark across agile and DevOps environments. Delivered strategic insights for major initiatives including:
+Accomplished business intelligence/data analysis reporting using SQL, visualization, data analytics, statistical analysis, data warehousing and ETL outcomes by performing a multifunctional role within agile methodology and dev-ops methodology using Tableau/Power BI, SQL, Hadoop, Teradata, Python, RStudio, Statistics and Spark. Also utilized Program Management methodologies to lead projects like Customer-Hub 360 and Prospect Campaign to provide user insights and strategic deep dive
+Led the creation of a billing data warehouse capable of ingesting 3TB of data every hour, as well as offering on-demand availability in in-memory OLAP cubes for advanced analytics using Tableau/Power BI, Python and R Studio to provide comprehensive quantitative big data analytics
 
-- **Customer Hub 360**
-- **Prospect Campaign**
-- **Billing & Care Analytics**
-- **Network Performance & Big Data Initiatives**
 
-#### Key Achievements
 
-- Led development of a **billing data warehouse ingesting 3TB per hour**, with on-demand OLAP compute for advanced analytics.
-- Enabled large-scale big data analytics across subscriber + network data on Hadoop and Teradata.
-- Delivered outcomes including:
-  - **50% reduction in customer churn**
-  - Lower operational cost
-  - Expanded enterprise data visibility
-- Earned **performance recognition** for advanced usage of SQL (Oracle) and HQL (Hadoop).
-- Built consolidated dashboards including customer lifetime value, improving cross-zone analytics and reporting accuracy.
-- Implemented solutions that increased:
-  - Operational efficiency  
-  - Delivery speed  
-  - Supply chain and service optimization  
 
-#### Major Responsibilities
 
-##### Requirements Management
-- Gathered business needs through JAD sessions with SMEs, developers, PMs, and QA teams.
-- Translated business needs into data and reporting specifications.
-
-##### Data Warehousing
-- Designed transformations and database architecture.
-- Managed metadata and data models for enterprise EDW environments.
-
-##### Enterprise Reporting & Analytics
-- Built dashboards and reporting pipelines used in enterprise decision workflows.
-- Reduced customer care calls and acquisition effort by **30%** while increasing analytic capability by **30%** with Python.
-
-##### ETL Processing
-- Performed source analysis, data mapping, and large-scale SQL transformations.
-- Validated data movement per agile user story requirements.
-
-##### Program Management
-- Managed on-shore and off-shore resources.
-- Improved delivery throughput by **130%**.
-
-##### Test Management
-- Created test plans, use cases, and execution workflows.
-- Ran SQL for data validation and QA.
 
 ---
 
