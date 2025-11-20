@@ -161,22 +161,7 @@ Explore Power BI, Tableau, SQL, ETL pipelines, predictive models, and analytics 
 
 ##  GitHub Overview
 
-<table>
-  <tr>
-    <td>
-      <h3> Most Used Languages On GitHub</h3>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <h3> My GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=tarun-pala&show_icons=true&count_private=true&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight&hide_border=false&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Let's Connect
 
