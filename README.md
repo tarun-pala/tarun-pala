@@ -168,7 +168,7 @@ Explore Power BI, Tableau, SQL, ETL pipelines, predictive models, and analytics 
     <td>
       <h3> Most Used Languages On GitHub</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulthepro&layout=compact&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight" />
       </a>
     </td>
     <td>
