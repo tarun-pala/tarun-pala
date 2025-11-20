@@ -1,4 +1,4 @@
-# Hello!, I'm **Tarun Kumar Pala**
+# Hello! I'm **Tarun Kumar Pala**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tarun-pala/tarun-pala/main/banner.jpg" alt="Tarun Kumar Pala Banner">
