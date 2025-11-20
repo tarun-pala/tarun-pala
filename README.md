@@ -57,6 +57,27 @@ A business intelligence / project management professional with **9 years of expe
 Accomplished business intelligence/data analysis reporting using SQL, visualization, data analytics, statistical analysis, data warehousing and ETL outcomes by performing a multifunctional role within agile methodology and dev-ops methodology using Tableau/Power BI, SQL, Hadoop, Teradata, Python, RStudio, Statistics and Spark. Also utilized Program Management methodologies to lead projects like Customer-Hub 360 and Prospect Campaign to provide user insights and strategic deep dive
 Led the creation of a billing data warehouse capable of ingesting 3TB of data every hour, as well as offering on-demand availability in in-memory OLAP cubes for advanced analytics using Tableau/Power BI, Python and R Studio to provide comprehensive quantitative big data analytics
 
+- Fully contributed to team effort in enabling big data analytics for subscriber data and network data on a Hadoop and Teradata platform, a first-time capability for T-Mobile that provided substantial business impact, reduced customer churn by 50%, as well as reducing operational costs while demonstrating excellent problem-solving skills
+
+- Achieved key performance award by maximum utilization of SQL in Oracle Environment and HQL in Hadoop
+
+  - Achieved our strategic customer care goals by integrating the zones into a single customer view that displayed multiple KPIs, such as customer lifetime value. Provided the ability to analyze and visualize data in different data zones, using tools such as Tableau/Power BI Desktop
+
+  - Delivered a solution that drove innovation in product and service development and supply chain and logistics; operational efficiencies; service level optimization, and operational analytics which helped collaborate within multiple verticals
+
+- **Applied expertise in:**
+
+  - **Requirements Management** – Gathered and assessed business information needs and prepared data and reporting requirements. Conducted JAD sessions with SMEs, developers, project managers and quality analysts to discuss business requirements
+
+  - **Data Warehousing** – Performs analysis, development and transformation of data in a data warehouse environment which includes data design, database architecture, and metadata management
+
+  - **Data Reporting** – Addressed enterprise data reporting in a BI environment for analysis and decision-making process. Achieved goal to decrease the customer care calls and customer acquisition efforts by 30% and increase the analysis efforts by 30% using Python for analysis
+
+  - **ETL Processing** – Identified and analyzed source data. Contributed to defining the data mapping specification. Collaborated with DBAs to perform data mapping and executed a range of simple to complex SQL queries to manage large-scale data transformations into the EDW and data marts. Validated all source data transformation per the specs captured from user stories
+
+  - **Program Management** – Played a huge role in resource planning and managing the relationships between on shore and off shore teams. My efforts increased team efficiency by 130%
+
+  - **Test Management** – Created use cases, test cases, process flows, test plans for QA team and observed users’ behavior during product testing. Worked on SQL queries for QA testing and report / data validation
 
 
 
