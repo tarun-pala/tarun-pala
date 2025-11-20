@@ -1,4 +1,8 @@
-# Hello! Welcome to My Profile
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=E0E0E0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!)
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tarun-pala/tarun-pala/main/banner.jpg" alt="Tarun Kumar Pala Banner">
@@ -162,13 +166,13 @@ Explore Power BI, Tableau, SQL, ETL pipelines, predictive models, and analytics 
 <table>
   <tr>
     <td>
-      <h3>❄ Most Used Languages On GitHub</h3>
+      <h3> Most Used Languages On GitHub</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala&layout=compact&theme=tokyonight" />
       </a>
     </td>
     <td>
-      <h3>⭐ My GitHub Stats</h3>
+      <h3> My GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=tarun-pala&show_icons=true&count_private=true&theme=tokyonight" />
     </td>
   </tr>
