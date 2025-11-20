@@ -3,8 +3,6 @@
 ### Senior Business Intelligence Analyst  
 Data Analytics • Business Intelligence • Project & Program Management
 
-📍 Bellevue, WA  
-📞 315-380-2194  
 📧 tarunkumarpala@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/tarunkumarpala  
 💻 GitHub: https://github.com/tarun-pala
