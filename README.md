@@ -79,44 +79,44 @@ Led the creation of a billing data warehouse capable of ingesting 3TB of data ev
 
   - **Test Management** – Created use cases, test cases, process flows, test plans for QA team and observed users’ behavior during product testing. Worked on SQL queries for QA testing and report / data validation
 
+---
 
+### **Seed Capital Fund of CNY – Syracuse, NY Jun 2014 – Aug 2014**  
+**Business Intelligence Analyst**
 
+Addressed the challenges of a reporting environment, that weren’t meeting the needs of the business by drastically cutting costs, reducing errors, and increasing performance
 
+- Worked cross-functionally across both the IT and business teams to design and develop reports using Tableau/Power BI and Excel to create standardized and reusable reports
+  - As a team, created reports that helped 25% increase in funding across the upstate region of North America
+
+- Applied expertise in:
+  - **Requirements Gathering** – Created/reviewed business and system requirements for design and construction and ensured the functional design was consistent with those requirements
+  - **Test Management** – Created and executed Test Plans, Test Cases, and Defect Reports. Ran SQL queries to identify incompleteness and ambiguity, and quickly resolved. Created test scenarios for UAT
+  - **Statistical Prediction** – Statistically predicted possibility of investments and a company’s success based on sample data sets
 
 ---
 
-### **Seed Capital Fund of CNY – Syracuse, NY**  
-**Business Intelligence Analyst (Jun 2014 – Aug 2014)**
+### **Zursh Inc. – Carlsbad, CA Jan 2014 – May 2014**  
+**Business Analyst Intern**
 
-- Built reusable BI reporting systems in Power BI, Tableau, and Excel.
-- Improved reporting quality and turnaround time.
-- Supported cross-team requirements discovery and report standardization.
+Introduced an interactive business model to create transparency into our own portfolio, as well as that of competitors and potential acquisition targets. Enabling data analysis at the leadership level in order to reduce operational costs by 60%.
 
-#### Major Impact
-- Reporting improvements helped increase **investment funding by 25%** across the Upstate NY market.
+- Gained approval for the new direction by presenting dashboards in a story manner that engaged the management team
 
-##### Additional Responsibilities
+- Delivered a what-if model that allowed the assessment of the strengths and weaknesses of each proposed transaction. Went beyond the traditional uses of knowing what, when, and how much, to delve into the true analytics space of “what-if” for exploration, experimentation, and discovery
 
-- Requirements Gathering  
-- UAT Test Plan + Test Case development  
-- Statistical prediction modeling using sample datasets  
+- Part of design team for the creation of a prototype of a visual analytical model to enable immediate like for like impact analysis showing client’s market positioning before and after the potential transaction
 
----
+- Leadership successfully used the model during the acquisition of 8 small businesses to understand the strategic fit in terms of its impact on the company’s footprint within key markets
 
-### **Zursh Inc. – Carlsbad, CA**  
-**Business Analyst Intern (Jan 2014 – May 2014)**
+- Applied expertise in:
+  - **Strategic and Tactical Dashboards** – Used Tableau/Power BI Desktop for its extensive data visualization techniques that included Crosstabs, Heat/GeoTree Maps, Pie/Bar Charts, Circle Views, Line/Area Charts, Scatter Plots, Bullet Graphs, and Histograms. The dashboards were used strategically to understand current market trends, as well as other competitive services and trends; tactically they were used to increase consumer satisfaction
 
-- Introduced enterprise analytics model improving decision transparency.
-- Supported leadership in evaluating acquisition targets and portfolio intelligence.
-- Created visualization models and what-if analysis tools.
-- Strengthened M&A decision maturity leading to **8 company acquisitions**.
+  - **Process Improvements** – Defined improved process flows, resulting in a nearly 5% increase in revenue
 
-#### Major Responsibilities
+  - **Requirements Gathering** – Authored Business Requirement Documents (BRD) into System Requirement Specifications (SRS) and identified interface and building business process specifications
 
-- Strategic & tactical BI dashboards  
-- Process improvement and optimization  
-- Requirements documentation (BRD → SRS)  
-- Multi-source reporting and analysis  
+  - **Reporting** – Generated reports using multiple queries, sub queries, merged dimensions, and ranking
 
 ---
 
@@ -125,7 +125,7 @@ Led the creation of a billing data warehouse capable of ingesting 3TB of data ev
 ### **Harrisburg University – Harrisburg, PA (2016 – 2018)**
 Master of Science – Information Technology & Project/Program Management
 
-### **Syracuse University – Syracuse, NY (2015)**
+### **Syracuse University – Syracuse, NY (May 2015)**
 Martin J. Whitman School of Management  
 Master of Science  
 Whitman Merit Scholarship Recipient  
@@ -142,7 +142,7 @@ GPA: **3.1 / 4.0**
 - Operations Management  
 - Consulting
 
-### **Jawaharlal Nehru Technological University – Hyderabad, India (2013)**
+### **Jawaharlal Nehru Technological University – Hyderabad, India (Jul 2013)**
 Bachelor of Technology – Electrical and Electronics Engineering  
 GPA: **3.8 / 4.0**
 
