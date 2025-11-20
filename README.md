@@ -6,7 +6,7 @@
 
 ## I'm Tarun Kumar Pala
 ### Senior Business Intelligence Analyst  
-Data Analytics • Business Intelligence • Project & Program Management
+Data Analytics || Business Intelligence || Project & Program Management
 
 📧 tarunkumarpala@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/tarunkumarpala  
