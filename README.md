@@ -11,51 +11,17 @@ Data Analytics • Business Intelligence • Project & Program Management
 
 ---
 
-## 🧠 Professional Summary
+## Professional Summary
 
-Business Intelligence and Project Management professional with **9+ years of experience**, highly skilled in data analysis, reporting, software design, development, integration, testing and enterprise implementation of BI, ETL and large-scale databases.
+A business intelligence / project management professional with 9 years of experience who is highly experienced with data analysis, reporting, software design, development, integration, testing and implementation of business intelligence, ETL and database platforms. Clasps the opportunity to take on a number of roles with a comprehensive understanding of all facets of project management and program management
 
-Brings strong knowledge across project management methodologies and full SDLC processes, with the ability to take on cross-functional roles and deliver measurable business outcomes.
+BI Analyst– Specializes in developing data analytic capabilities, strategic and tactical dashboards and statistical and predictive modeling. All-inclusive understanding and analysis of data processes. Conducts productive and efficient JAD sessions with subject matter experts, stakeholders, analysts, developers, architects and solution owners. Adept at data visualization and metrics analysis using Tableau/Power BI and data analysis using R/Python/Statistics
 
-### BI & Data Analytics Expertise
-Specializes in developing enterprise analytic capabilities including:
-
-- Strategic and operational dashboards  
-- Statistical & predictive modeling  
-- Advanced visualization and metrics tracking  
-- Big data analytics and high-volume processing  
-- Data storytelling for business stakeholders  
-
-Adept at analytics using:
-
-- **Tableau**
-- **Power BI**
-- **R**
-- **Python**
-- **Statistics**
-- **Hadoop**
-- **Teradata**
-- **SQL**
-- **Spark**
-
-Conducts highly productive JAD sessions with SMEs, architects, stakeholders, development teams, and analytic leaders.
-
-### Project & Program Management Strength
-
-Professionally trained in:
-
-- Project lifecycle management  
-- Risk assessment and governance  
-- Planning, scheduling & tracking  
-- Scope, cost & resource management  
-- Business process improvement  
-- Cross-team stakeholder collaboration  
-
-Ensures alignment between strategy, enterprise goals, business requirements, and implementation outcomes.
+Project Management & Program Management– Professional graduate level education in all facets or project management and program management principles. Conducts project-based analysis, problem solving, planning, scheduling, cost management, collaboration, attention to detail and risk assessment. Analyses enterprise risk assessment, risk governance and compliance requirements within business intelligence teams
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Certifications
 - Tableau
