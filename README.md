@@ -23,70 +23,28 @@ A business intelligence / project management professional with **9 years of expe
 
 ---
 
-## Technical Skills
+## 🔧 Technical Skills
 
-### Certifications
-- Tableau
-- Power BI
+- **Certifications:**  
+  Tableau, Power BI
 
-### Analytics & BI
-- Tableau  
-- Power BI  
-- R Studio  
-- Google Analytics  
-- Python  
-- Statistics  
+- **Analytics:**  
+  Power BI, Tableau, R Studio, Google Analytics, Python, Statistics
 
-### Program & Delivery Management
-- Project Management  
-- Business Process Improvement  
-- Product Specialization  
-- Business Development  
-- Status Tracking  
-- Leadership  
-- Project Timelines  
-- Scope & Resource Allocation  
+- **Program Management:**  
+  Project Management, Business Process Improvement, Product Specialization, Business Development, Status Tracking, Leadership, Project Timelines, Project Scope, Project Allocation
 
-### SDLC Experience
-- Waterfall  
-- Iterative  
-- RUP  
-- Agile  
+- **SDLC Approach:**  
+  Waterfall, Iterative, Rational Unified Process (RUP), Agile
 
-### Analytical Strategy Expertise
-- Program Management  
-- Business Systems  
-- Statistical Analysis  
-- Regression Analysis  
-- Financial Analysis  
-- Project Management  
+- **Analytical Strategies:**  
+  Program Management, Business System, Statistical Analysis, Regression Analysis, Financial Analysis, Project Management
 
-### Documentation Tools
-- UML  
-- Enterprise Architect  
-- MS Visio  
-- FileNet  
-- GitHub  
-- SharePoint  
-- Rally  
-- JIRA  
-- MS Project  
+- **Documentation Tools:**  
+  UML, Enterprise Architect, MS Visio, FileNet, GitHub, SharePoint, Rally, JIRA, MS Project
 
-### Technical Environment
-- SQL  
-- SAP  
-- HPQC  
-- Toad  
-- Spark  
-- Apache Suite  
-- Beam  
-- Denodo  
-- Hadoop  
-- Hive  
-- HQL  
-- Teradata  
-- Python  
-- Spark
+- **Technical Skills:**  
+  SQL, SAP, HPQC, Toad, Spark, Beam, Apache Suite, Denodo, Hadoop, Hive, HQL, Teradata, Python, Spark
 
 ---
 
