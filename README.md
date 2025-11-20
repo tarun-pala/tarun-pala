@@ -159,11 +159,9 @@ Explore Power BI, Tableau, SQL, ETL pipelines, predictive models, and analytics 
 
 🔗 https://github.com/tarun-pala
 
----
+##  GitHub Overview
 
-
-----
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-pala)](https://github.com/anuraghazra/github-readme-stats)
 ##  Let's Connect
 
 📧 **Email:** tarunkumarpala@gmail.com  
